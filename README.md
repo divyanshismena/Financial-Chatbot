@@ -1,5 +1,7 @@
-For Pdf Chatbot
-```streamlit run main.py```
+## For Pdf Chatbot
 
-For Financial Chatbot 
-```streamlit run finad.py```
+  ```streamlit run main.py```
+
+## For Financial Chatbot 
+
+  ```streamlit run finad.py```
