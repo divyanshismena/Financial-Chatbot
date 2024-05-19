@@ -1,0 +1,8 @@
+*.pdf
+__pycache__
+.vscode
+notebooks
+inputs
+.env
+*.png
+chatbot
